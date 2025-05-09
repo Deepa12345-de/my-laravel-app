@@ -103,6 +103,7 @@
         #logoutDropdown:hover{
             background-color: blue;
             color:blue;
+            
         }
         @media (max-width: 992px) {
             .sidebar {
